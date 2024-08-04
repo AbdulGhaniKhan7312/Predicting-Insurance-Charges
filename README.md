@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Dive into the heart of data science with a project that combines healthcare insights and predictive analytics. As a Data Scientist at a top Health Insurance company, this project aims to predict customer healthcare costs using the power of machine learning. These insights will help tailor services and guide customers in planning their healthcare expenses more effectively.
+Dive into the heart of data science with a project that combines healthcare insights and predictive analytics. As a Data Scientist, this project aims to predict customer healthcare costs using the power of machine learning. These insights will help tailor services and guide customers in planning their healthcare expenses more effectively.
 
 ## Dataset Summary
 
